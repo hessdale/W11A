@@ -11,12 +11,12 @@ let apple_info =
 };
 let banana_info = {
     name: `banana`,
-    descirption: `yellow`,
+    description: `yellow`,
     image_url: `/images/banana.png`
 };
 let peach_info = {
     name: `peach`,
-    descirption: `orange`,
+    description: `orange`,
     image_url: `/images/peach.png`
 };
 //using variable of JSON to convert cookie info in functions
